@@ -1,0 +1,77 @@
+[02-Jun-2020 06:03:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/dashboard_blogger.php on line 2
+[02-Jun-2020 06:07:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/php/include/db_connect.php:17) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 06:09:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/php/include/db_connect.php:17) in /home1/webaurky/public_html/myfurries/blogger/index.php on line 5
+[02-Jun-2020 06:10:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/php/include/db_connect.php:17) in /home1/webaurky/public_html/myfurries/blogger/index.php on line 5
+[02-Jun-2020 06:10:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/php/include/db_connect.php:17) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 06:24:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/php/include/db_connect.php:17) in /home1/webaurky/public_html/myfurries/blogger/index.php on line 4
+[02-Jun-2020 06:24:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/php/include/db_connect.php:17) in /home1/webaurky/public_html/myfurries/blogger/index.php on line 4
+[02-Jun-2020 06:24:50 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/php/include/db_connect.php:17) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 06:28:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 06:28:00 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 06:28:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 06:52:03 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 06:52:03 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 06:52:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:27:32 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 07:27:32 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 07:27:32 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:27:35 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 07:27:35 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 07:27:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:36:23 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 07:36:23 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 07:36:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:36:34 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 07:36:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:47:58 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 07:47:58 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 07:47:58 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:53:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 07:53:48 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 07:53:48 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:54:50 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 07:54:50 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 07:54:50 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 07:55:01 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 07:55:01 America/Boise] PHP Notice:  Undefined variable: _SESSION in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 6
+[02-Jun-2020 07:55:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php:1) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:09:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 08:10:05 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 08:10:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:10:10 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 08:10:10 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:10:13 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 08:10:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:11:23 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 08:11:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:11:53 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 08:11:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:12:53 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 08:12:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:12:56 America/Boise] PHP Notice:  Undefined index: role in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 7
+[02-Jun-2020 08:12:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:7) in /home1/webaurky/public_html/myfurries/blogger/function.php on line 5
+[02-Jun-2020 08:13:12 America/Boise] PHP Notice:  Undefined index: id in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 103
+[02-Jun-2020 09:07:11 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 09:09:13 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[02-Jun-2020 09:14:26 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/webaurky/public_html/myfurries/blogger/newcreateblog.php on line 2
+[05-Jul-2020 04:34:27 America/Boise] PHP Notice:  Undefined variable: youtube_id in /home1/webaurky/public_html/myfurries/include/function.php on line 28
+[05-Jul-2020 04:37:56 America/Boise] PHP Notice:  Undefined variable: youtube_id in /home1/webaurky/public_html/myfurries/include/function.php on line 28
+[05-Jul-2020 04:38:16 America/Boise] PHP Notice:  Undefined variable: youtube_id in /home1/webaurky/public_html/myfurries/include/function.php on line 28
+[05-Jul-2020 04:38:59 America/Boise] PHP Notice:  Undefined variable: youtube_id in /home1/webaurky/public_html/myfurries/include/function.php on line 28
+[05-Jul-2020 04:47:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:117
+Stack trace:
+#0 {main}
+  thrown in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 117
+[05-Jul-2020 04:48:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:117
+Stack trace:
+#0 {main}
+  thrown in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 117
+[05-Jul-2020 04:48:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:117
+Stack trace:
+#0 {main}
+  thrown in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 117
+[05-Jul-2020 04:48:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php:117
+Stack trace:
+#0 {main}
+  thrown in /home1/webaurky/public_html/myfurries/blogger/userbloglist_all.php on line 117
+[06-Jul-2020 05:54:17 America/Boise] PHP Notice:  Undefined variable: youtube_id in /home1/webaurky/public_html/myfurries/include/function.php on line 28
