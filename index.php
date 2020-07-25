@@ -92,180 +92,224 @@ We at Clean-O-Rama aim to curb all your laundry woes and at the same time create
 
 <!-- services -->
 
-<section class="card-view pb-5">
+<section class="card-view py-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center  mt-5">
-
-                <h2 class="main-heading">SERVICES</h2>
-                <h5 class="text-muted">Welcome,how can we assist you today?</h5>
-
+                <h2 class="main-heading">Marketplace</h2>
+                <h5 class="text-muted">The one stop solution to all your laundry needs.</h5>
             </div>
-
-
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-sm-6">
+                <div class="form-group">
+                <div class="row mt-3">
+                    <div class="col-sm-4">
+                        <label for="exampleFormControlSelect1">Select service type:</label>
+                    </div>
+                    <div class="col-sm-8">
+                        <select class="form-control" id="exampleFormControlSelect1">
+                            <option>Laundry</option>
+                            <option>Dry Cleaning</option>
+                            <option>Ironing</option>
+                        </select>
+                    </div>
+                </div>
+                </div>
+            </div>
         </div>
         <div class="row justify-content-center" style="margin-top: 20px;">
-            <div class="col-11 col-sm-6 col-md-4  card-margin-service">
-
-                <div class="card card-service">
-                    <p class="text-center card-img " style="margin-top: -40px;"><img
-                            class=" img-fluid card-image-service " src="oldassets/images/Logo/s1.png" alt="card image">
-                    </p>
-                    <div class="card-body text-center card-body-service">
-
-                        <h3 class="card-title mt-3 card-title-service">Furry Checkup</h3>
-                        <p class="card-text mb-4">Feeling a bit under weather or just a quick check up .We got your baby
-                            covered here .</p>
-
-
-                    </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
-
-                        <div class="row justify-content-center card-btn ">
-                            <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #4FB183;">Know More</a>
+            <div class="col-md-6 my-3 d-flex">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="media">
+                            <img class="mr-3" src="https://img.icons8.com/bubbles/100/000000/machine-wash-warm.png"/>
+                            <div class="media-body">
+                                <h5 class="my-1">Andina Acquisition Corp.</h5>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Address:
+                                    </div>
+                                    <div class="col-8">
+                                    694 Reinke Point
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    About:
+                                    </div>
+                                    <div class="col-8">
+                                    purus phasellus in felis donec semper sapien a libero nam dui proin leo
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Service Type:
+                                    </div>
+                                    <div class="col-8">
+                                    <span class="badge badge-primary">Laundry</span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Contact:
+                                    </div>
+                                    <div class="col-8">
+                                    +91-5126780921
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary mt-3" type="button">Contact Now</button>
+                            </div>
+                            </div>
                         </div>
-
+                    <div class="card-footer">
+                        <p class="text-muted">Active Participation: 100+</p>
                     </div>
-
                 </div>
-
             </div>
-
-            <div class="col-11 col-sm-6 col-md-4  card-margin-service">
-
-                <div class="card card-service">
-                    <p class="text-center card-img " style="margin-top: -40px;"><img
-                            class=" img-fluid card-image-service " src="oldassets/images/Logo/s2.png" alt="card image">
-                    </p>
-                    <div class="card-body text-center card-body-service">
-
-                        <h3 class="card-title mt-3 card-title-service">Furry Grooming</h3>
-                        <p class="card-text mb-4">From fanciest to trendiest, find all sorts of grooming salons around
-                            you!
-                        </p>
-
-
-                    </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
-
-                        <div class="row justify-content-center card-btn ">
-                            <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #4FB183;">Know More</a>
+            <div class="col-md-6 my-3 d-flex">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="media">
+                            <img class="mr-3" src="https://img.icons8.com/bubbles/100/000000/broom.png"/>
+                            <div class="media-body">
+                                <h5 class="my-1">eHi Car Services Limited</h5>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Address:
+                                    </div>
+                                    <div class="col-8">
+                                    5781 Sauthoff Junction
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    About:
+                                    </div>
+                                    <div class="col-8">
+                                   integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc 	
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Service Type:
+                                    </div>
+                                    <div class="col-8">
+                                    <span class="badge badge-primary">Dry Cleaning</span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Contact:
+                                    </div>
+                                    <div class="col-8">
+                                    +91-2151790579
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary mt-3" type="button">Contact Now</button>
+                            </div>
+                            </div>
                         </div>
-
+                    <div class="card-footer">
+                        <p class="text-muted">Active Participation: 80+</p>
                     </div>
-
                 </div>
-
             </div>
-
-            <div class="col-11 col-sm-6 col-md-4  card-margin-service">
-
-                <div class="card card-service">
-                    <p class="text-center card-img " style="margin-top: -40px;"><img
-                            class=" img-fluid card-image-service " src="oldassets/images/Logo/s3.png" alt="card image">
-                    </p>
-                    <div class="card-body text-center card-body-service">
-
-                        <h3 class="card-title mt-3 card-title-service">Furry Boarding</h3>
-                        <p class="card-text mb-4">Can't take your babies with you ? Find a home away form home for them
-                            here
-                        </p>
-
-
-                    </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
-
-                        <div class="row justify-content-center card-btn ">
-                            <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #4FB183;">Know More</a>
+            <div class="col-md-6 my-3 d-flex">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="media">
+                            <img class="mr-3" src="https://img.icons8.com/dusk/100/000000/iron.png"/>
+                            <div class="media-body">
+                                <h5 class="my-1">Carter, Fadel and Roob</h5>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Address:
+                                    </div>
+                                    <div class="col-8">
+                                    8745 Dennis Street
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    About:
+                                    </div>
+                                    <div class="col-8">
+                                   integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc 	
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Service Type:
+                                    </div>
+                                    <div class="col-8">
+                                    <span class="badge badge-primary">Ironing</span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Contact:
+                                    </div>
+                                    <div class="col-8">
+                                    +91-7781686660
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary mt-3" type="button">Contact Now</button>
+                            </div>
+                            </div>
                         </div>
-
+                    <div class="card-footer">
+                        <p class="text-muted">Active Participation: 90+</p>
                     </div>
-
                 </div>
-
             </div>
-
-
-
-            <div class="col-11 col-sm-6 col-md-4  card-margin-service">
-
-                <div class="card card-service">
-                    <p class="text-center card-img " style="margin-top: -40px;"><img
-                            class=" img-fluid card-image-service " src="oldassets/images/Logo/s4.png" alt="card image">
-                    </p>
-                    <div class="card-body text-center card-body-service">
-
-                        <h3 class="card-title mt-3 card-title-service">Pet mall</h3>
-                        <p class="card-text mb-4">From treats for pets to vets all under one roof.</p>
-
-
-                    </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
-
-                        <div class="row justify-content-center card-btn ">
-                            <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #4FB183;">Know More</a>
+            <div class="col-md-6 my-3 d-flex">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="media">
+                            <img class="mr-3" src="https://img.icons8.com/bubbles/100/000000/hand-wash.png"/>
+                            <div class="media-body">
+                                <h5 class="my-1">Cartwright-Tremblay</h5>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Address:
+                                    </div>
+                                    <div class="col-8">
+                                    76 Manitowish Avenue
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    About:
+                                    </div>
+                                    <div class="col-8">
+                                   condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit	
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Service Type:
+                                    </div>
+                                    <div class="col-8">
+                                    <span class="badge badge-primary">Dry Cleaning</span>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">
+                                    Contact:
+                                    </div>
+                                    <div class="col-8">
+                                    +91-8621683379
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary mt-3" type="button">Contact Now</button>
+                            </div>
+                            </div>
                         </div>
-
+                    <div class="card-footer">
+                        <p class="text-muted">Active Participation: 130+</p>
                     </div>
-
                 </div>
-
-            </div>
-
-            <div class="col-11 col-sm-6 col-md-4  card-margin-service">
-
-                <div class="card card-service">
-                    <p class="text-center card-img " style="margin-top: -40px;"><img
-                            class=" img-fluid card-image-service " src="oldassets/images/Logo/s5.png" alt="card image">
-                    </p>
-                    <div class="card-body text-center card-body-service">
-
-                        <h3 class="card-title mt-3 card-title-service">Help an animal in Need!</h3>
-                        <p class="card-text mb-4">List of NGO's, emergency contact number, donations.</p>
-
-
-                    </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
-
-                        <div class="row justify-content-center card-btn ">
-                            <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #4FB183;">Know More</a>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="col-11 col-sm-6 col-md-4  card-margin-service">
-
-                <div class="card card-service">
-                    <p class="text-center card-img " style="margin-top: -40px;"><img
-                            class=" img-fluid card-image-service " src="oldassets/images/Logo/s6.png" alt="card image">
-                    </p>
-                    <div class="card-body text-center card-body-service">
-
-                        <h3 class="card-title mt-3 card-title-service">Forum</h3>
-                        <p class="card-text mb-4">Pet parents and animal lovers get together here to exchange notes</p>
-
-
-                    </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
-
-                        <div class="row justify-content-center card-btn ">
-                            <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #4FB183;">Know More</a>
-                        </div>
-
-                    </div>
-
-                </div>
-
             </div>
         </div>
     </div>
