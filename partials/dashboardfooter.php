@@ -61,6 +61,7 @@
 			$('#accountinfo-edit').hide();
 			$('#your-affiliation').hide();
 			$('#ask_forum').hide();
+			$('#scratchcard').hide();
 		}
 
 		function personal_info() {
@@ -75,6 +76,7 @@
 			$('#accountinfo-edit').hide();
 			$('#your-affiliation').hide();
 			$('#ask_forum').hide();
+			$('#scratchcard').hide();
 		}
 
 		function account_info() {
@@ -89,6 +91,7 @@
 			$('#accountinfo-edit').hide();
 			$('#your-affiliation').hide();
 			$('#ask_forum').hide();
+			$('#scratchcard').hide();
 		}
 
 		function edit_personalinfo_btn() {
@@ -102,6 +105,7 @@
 			$('#accountinfo-edit').hide();
 			$('#your-affiliation').hide();
 			$('#ask_forum').hide();
+			$('#scratchcard').hide();
 		}
 		function edit_accountinfo_btn() {
 			$('#market_place').hide();
@@ -114,6 +118,8 @@
 			$('#accountinfo-edit').show();
 			$('#your-affiliation').hide();
 			$('#ask_forum').hide();
+			$('#scratchcard').hide();
+
 		}
 
 	
@@ -128,7 +134,23 @@
 			$('#accountinfo-edit').hide();
 			$('#your-affiliation').show();
 			$('#ask_forum').hide();
+			$('#scratchcard').hide();
 
+		}
+
+		function scratchcard() {
+			$('#market_place').hide();
+			$('#your_blog').hide();
+			$('#create_blog').hide();
+			$('#main-profile').show();
+			$('#personalinfo').hide();
+			$('#accountinfo').hide();
+			$('#personalinfo-edit').hide();
+			$('#accountinfo-edit').hide();
+			$('#your-affiliation').hide();
+			$('#ask_forum').hide();
+			$('#scratchcard').show();
+			
 		}
 		function createblog()
 		{

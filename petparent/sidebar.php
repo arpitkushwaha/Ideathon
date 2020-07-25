@@ -20,12 +20,12 @@
 							<span class="ttr-label">My Account</span>
 						</a>
 					</li>
-					<li>
+					<!-- <li>
 						<a href="#" class="ttr-material-button">
 							<span class="ttr-icon"><i class="ti-book"></i></span>
 							<span class="ttr-label">Pet Profile</span>
 						</a>
-					</li>
+					</li> -->
 					<li>
 						<a href="marketplacelist.php" class="ttr-material-button" >
 							<span class="ttr-icon"><i class="ti-layout-accordion-list"></i></span>

@@ -38,7 +38,7 @@ if(!isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
 	<link rel="icon" type="image/png" href="../oldassets/images/Logo/logo.jpg	">
 
 	<!-- PAGE TITLE HERE ============================================= -->
-	<title>MyFurries</title>
+	<title>Clean-O-Rama</title>
 
 	<!-- MOBILE SPECIFIC ============================================= -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
