@@ -6,7 +6,7 @@
 		<div class="ttr-sidebar-wrapper content-scroll">
 			<!-- side menu logo start -->
 			<div class="ttr-sidebar-logo">
-				<a href="../index.php"><img alt="" src="../oldassets/images/Logo/logo-name.png" width="200" height="60"></a>
+				<a href="../index.php"><img alt="" src="../ideathon/logo.svg" width="200"></a>
 
 
 			</div>

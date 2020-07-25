@@ -308,7 +308,7 @@ p {
 }
 
 .btn {
-    font-family: 'Lato';
+    /* font-family: 'Lato'; */
 
 }
 
@@ -550,7 +550,7 @@ li {
     background-color: white !important;
     margin-top: -14%;
     border-radius: 15px;
-    box-shadow: 0px 0px 15px 0.001em #b3b3b3;
+    box-shadow: 0px 0px 10px #4747477a;
 
 }
 
@@ -593,9 +593,9 @@ li {
 }
 
 .login-img {
-    width: 100px;
+    width: 300px;
     position: absolute;
-    margin-top: -30%;
+    margin-top: -35%;
 }
 
 @media(max-width:575px) {
@@ -608,7 +608,7 @@ li {
 
 .forgot-text a {
     font-size: 12px;
-    color: #FBAF1A;
+    color: #3C8872;
 }
 
 @media(max-width:575px) {
@@ -620,10 +620,10 @@ li {
 }
 
 .login-btn {
-    background-color: #FBAF1A;
+    background-color: #3C8872;
     border: none;
     border-radius: 10px;
-
+    padding: 0.6rem 0.9rem;
     font-weight: 600;
 }
 
@@ -646,7 +646,7 @@ li {
 }
 
 .login-box .input-group .fa {
-    color: #FBAF1A !important;
+    color: #3C8872 !important;
 
 
 }
@@ -684,7 +684,7 @@ li {
 }
 
 .login-btn:hover {
-    background-color: rgb(231, 104, 0) !important;
+    background-color: rgb(42, 102, 85) !important;
 }
 
 .hero {

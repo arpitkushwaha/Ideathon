@@ -57,7 +57,7 @@ if(isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
     <!-- ***** Wellcome Area Content End ***** -->
     <style>
         .login-section {
-            background-image: url(oldassets/images/login-bg.png);
+            background-image: url("https://images.unsplash.com/photo-1531428176221-0aa92734208a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80");
             background-size: cover;
             background-position: center;
             min-height: 500px;

@@ -58,7 +58,7 @@ if(isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
     <!-- ***** Wellcome Area Content End ***** -->
     <style>
         .login-section {
-            background-image: url(../oldassets/images/login-bg.png);
+            background:linear-gradient(rgba(29, 29, 29, 0.55), rgba(29, 29, 29, 0.35)), url("https://images.unsplash.com/photo-1531428176221-0aa92734208a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80");
             background-size: cover;
             background-position: center;
             min-height: 500px;
@@ -93,7 +93,7 @@ if(isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
 
         <div class="container-fluid mb-5">
             <div class="row justify-content-center ">
-                <img src="../oldassets/images/Logo/logo1.png" alt="" class="login-img">
+                <img src="../ideathon/logo.svg" alt="" class="login-img">
             </div>
 
             <div class="row justify-content-center">
@@ -103,7 +103,7 @@ if(isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
                         <ul >
 
                                 <a href="login.php" >
-                                    <li style="color: #FBAF1A;"><u>Login</u> </li>
+                                    <li style="color: #3C8872;"><u>Login</u> </li>
                                 </a>
                                 <span class="mr-4 ml-4">|</span>
                                 <a href="signup.php" >
@@ -115,7 +115,7 @@ if(isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
 
                     </div>
                     <div class="row justify-content-center mt-4">
-                        <h2 style="font-weight: 500;">Hello</h2>
+                        <h2 style="font-weight: 500;">Welcome</h2>
 
                     </div>
                     <div class="row justify-content-center text-center">
@@ -203,7 +203,7 @@ if(isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
 
                     </div>
                     <div class="row justify-content-center mt-4">
-                        <a href="../index.php" class="goback" style="color:#FBAF1A;font-weight:600;" ><i class="fa fa-arrow-circle-left  mr-2" style="color: #FBAF1A !important;"></i>Go Back</a>
+                        <a href="../index.php" class="goback" style="color:#3C8872;font-weight:600;" ><i class="fa fa-arrow-circle-left  mr-2" style="color: #3C8872 !important;"></i>Go Back</a>
                     </div>
 
                 </div>
