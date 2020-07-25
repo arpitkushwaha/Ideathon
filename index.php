@@ -198,7 +198,7 @@ We at Clean-O-Rama aim to curb all your laundry woes and at the same time create
                 </div>
             </div>
             <div class="col-sm-12 text-center my-3">
-                <a class="btn btn-primary btn-lg w-25" type="button" href="#">See More</a>
+                <a class="btn btn-primary btn-lg w-25" type="button" href="market.php">See More</a>
             </div>
             <!-- <div class="col-md-6 my-3 d-flex">
                 <div class="card">
@@ -337,7 +337,7 @@ We at Clean-O-Rama aim to curb all your laundry woes and at the same time create
                 </div>
             </div>
             <div class="col-sm-12 text-center my-3">
-                <a class="btn btn-primary btn-lg w-25" type="button" href="#">See More</a>
+                <a class="btn btn-primary btn-lg w-25" type="button" href="blog-list.php">See More</a>
             </div>
         </div>
     </div>

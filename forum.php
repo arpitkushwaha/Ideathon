@@ -273,22 +273,17 @@
 										<ul>
 											<li class="list-category">
 												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Pet Care</a></div>
+														Laundry</a></div>
 											</li>
 											<hr>
 											<li class="list-category">
 												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Pet Behaviour</a></div>
+														Dry CLeaning</a></div>
 											</li>
 											<hr>
 											<li class="list-category">
 												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Animal Help</a></div>
-											</li>
-											<hr>
-											<li class="list-category">
-												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Pet Health</a></div>
+														Ironing</a></div>
 											</li>
 
 										</ul>

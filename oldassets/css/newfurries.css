@@ -807,7 +807,8 @@ ol.comment-list li.comment .comment-author .avatar {
     display: table;
     width: 100%;
     text-align: left;
-    background: linear-gradient(177deg, #fe9124 0%, #ffae00d2 50%), url('https://www.trop-fort.net/wp-content/uploads/2019/06/pets-image-for-all.jpg');
+    background: linear-gradient(177deg, rgba(60, 136, 114, 0.521) 0%, rgba(60, 136, 114, 0.521) 50%),
+        url('https://images.unsplash.com/photo-1523274690497-3a29f54523ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1045&q=80');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -843,7 +844,7 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .inline-text li a {
-    color: #000 !important;
+    color: #000;
     font-weight: 600;
 }
 
