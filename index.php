@@ -3,16 +3,16 @@
 <!-- ***** Wellcome Area Content End ***** -->
 <style>
     .home-section {
-        background-image: url(oldassets/images/fina-bg.png);
+        background:linear-gradient(rgba(29, 29, 29, 0.55), rgba(29, 29, 29, 0.35)), url("ideathon/laundry.svg");
         background-size: cover;
-        min-height: 800px;
+        height: 100vh;
         background-repeat: no-repeat;
     }
 
 
     @media(max-width:600px) {
         .home-section {
-            background-image: url(https://storage.googleapis.com/incind/dummy-img.jpgpIVwQSc);
+            background-image: url(ideathon/laundry.svg);
             background-size: cover;
             min-height: 500px;
             background-position: center;
@@ -28,12 +28,10 @@
         <div class="home-content">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 align-self-center landing-text">
+                    <div class="offset-lg-5 col-lg-7 col-md-12 col-sm-12 col-xs-12 align-self-center landing-text">
                         <h2 class="landing-page-heading text-center">WELCOME TO</h2s>
-                            <h1 class="landing-mid-heading text-center">MY FURRIES</h1>
-                            <h4 class="landing-line-heading text-center">Pet's wellness and happiness hub</h4>
-
-
+                        <h1 class="landing-mid-heading text-center">Clean-O-Rama</h1>
+                        <h4 class="landing-line-heading text-center">Stay Hygiene, Stay Safe</h4>
                     </div>
 
                 </div>
@@ -60,58 +58,29 @@
         </div>
         <div class="row hover-1-wrap mb-5 mb-lg-0">
             <div class="col-12">
-                <div class="row ">
-                    <div class="col-lg-5 align-self-center mt-1 float-left p-3">
+                <div class="row mt-4">
+                    <div class="col-lg-6 my-auto">
                         <h2 class="about-heading">
-                            Expurret care for your furry feathery ,or scaly furriends
-
+                        Welcome to Clean-O-Rama!
                         </h2>
-                        <p>We are a team of pet /animal lovers
-                            who want to assist in making the journey of pet parents and their fur babies full of
-                            happiness and joy right from their puppy hood to being a senior.</p>
-                        <div class="row justify-content-center">
+                        <p>
+                        Laundry can be frustrating, even for a laundry enthusiast. It's time-consuming, unceasing and there is so very much that can go wrong.
+We at Clean-O-Rama aim to curb all your laundry woes and at the same time create a community of people who share a passion for helping each other out
+                        </p>
+                        <div class="row">
                             <a href=<?php echo "'".basepath()."aboutus.php'";?> class="btn btn-primary btn-regular mt-4 text-center">Know More</a>
                         </div>
 
                     </div>
 
 
-                    <div class="col-lg-6  mt-2  float-right mb-4 ml-5 grid-image">
-                        <div class="row justify-content-center pl-5 mt-2">
-                            <div class="col-lg-4 img-item">
-                                <div class="img-box">
-                                    <img src="oldassets/images/pets/p1.png" alt="" class="img-fluid about-img">
-                                </div>
-
-                            </div>
-                            <div class="col-lg-4 img-item">
-                                <div class="img-box">
-                                    <img src="oldassets/images/pets/p2.png" alt="" class="img-fluid about-img">
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="row justify-content-center pl-5 mt-3 ">
-                            <div class="col-lg-4 img-item">
-                                <div class="img-box">
-                                    <img src="oldassets/images/pets/p3.png" alt="" class="img-fluid about-img">
-                                </div>
-
-                            </div>
-                            <div class="col-lg-4 img-item">
-                                <div class="img-box">
-                                    <img src="oldassets/images/pets/p4.png" alt="" class="img-fluid about-img">
-                                </div>
-
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-12">
+                                <img class="w-100" src="ideathon/about.png" alt="">
                             </div>
                         </div>
                     </div>
-
-
-
-
-
-
                 </div>
             </div>
         </div>
@@ -123,7 +92,7 @@
 
 <!-- services -->
 
-<section class="card-view">
+<section class="card-view pb-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center  mt-5">
@@ -150,11 +119,11 @@
 
 
                     </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#862A30">
+                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
 
                         <div class="row justify-content-center card-btn ">
                             <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #AC5056;">Know More</a>
+                                style="background-color: #4FB183;">Know More</a>
                         </div>
 
                     </div>
@@ -178,11 +147,11 @@
 
 
                     </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#862A30">
+                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
 
                         <div class="row justify-content-center card-btn ">
                             <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #AC5056;">Know More</a>
+                                style="background-color: #4FB183;">Know More</a>
                         </div>
 
                     </div>
@@ -206,11 +175,11 @@
 
 
                     </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#862A30">
+                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
 
                         <div class="row justify-content-center card-btn ">
                             <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #AC5056;">Know More</a>
+                                style="background-color: #4FB183;">Know More</a>
                         </div>
 
                     </div>
@@ -234,11 +203,11 @@
 
 
                     </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#862A30">
+                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
 
                         <div class="row justify-content-center card-btn ">
                             <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #AC5056;">Know More</a>
+                                style="background-color: #4FB183;">Know More</a>
                         </div>
 
                     </div>
@@ -260,11 +229,11 @@
 
 
                     </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#862A30">
+                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
 
                         <div class="row justify-content-center card-btn ">
                             <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #AC5056;">Know More</a>
+                                style="background-color: #4FB183;">Know More</a>
                         </div>
 
                     </div>
@@ -286,11 +255,11 @@
 
 
                     </div>
-                    <div class="col-sm-12  card-section card-section-service " style="background-color:#862A30">
+                    <div class="col-sm-12  card-section card-section-service " style="background-color:#E5F6F1">
 
                         <div class="row justify-content-center card-btn ">
                             <a href="" class="btn btn-primary btn-regular text-center"
-                                style="background-color: #AC5056;">Know More</a>
+                                style="background-color: #4FB183;">Know More</a>
                         </div>
 
                     </div>
@@ -298,30 +267,6 @@
                 </div>
 
             </div>
-
-
-
-
-
-        </div>
-
-
-
-
-
-
-
-
-
-        <div class="row justify-content-center">
-            <div class="col-lg-6 text-center  mt-5">
-
-                <h2 class="main-heading">PAWLOG</h2>
-
-
-            </div>
-
-
         </div>
     </div>
 
@@ -338,266 +283,14 @@
 
 
 
-<section class="blog mt-2 " style="background-color: #9AC8DE;">
-    <div class="container ">
-
-        <div class="row justify-content-center">
-            <div class="col-lg-6 text-center  mt-5">
-
-                <h4 style="color: white;font-weight: 700;">Get to know about us, here journey is the destination.</h4>
-
-            </div>
-
-        </div>
-
-        <div class="row justify-content-center ">
-            <div class="col-md-6 col-lg-6  card-blog-margin">
-                <div class="row justify-content-center">
-                    <div class="card ">
-                        <div class="card-body card-blog">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <img src="oldassets/images/blog-cats/cat1.png" alt=""
-                                        class="img-fluid card-blog-img"></div>
-                                <div class="col-sm-8 card-blog-content">
-                                    <h5>John Smith</h5>
-                                    <p>Feeding leftovers to dogs is a common practice; however, there are certain food
-                                        items that could end up being
-                                        <a href="">Read More</a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <div class=" col-md-6 col-lg-6 card-blog-margin">
-                <div class="row justify-content-center">
-                    <div class="card ">
-                        <div class="card-body card-blog">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <img src="oldassets/images/blog-cats/cat2.png" alt=""
-                                        class="img-fluid card-blog-img"></div>
-                                <div class="col-sm-8 card-blog-content">
-                                    <h5>David Jones</h5>
-                                    <p>Patience is key when it comes to training your cat, and many of the common tricks
-                                        we teach dogs can also
-                                        <a href="">Read More</a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-
-        </div>
-
-
-        <div class="row justify-content-center ">
-            <div class="col-md-6 col-lg-6 card-blog-margin ">
-                <div class="row justify-content-center">
-                    <div class="card ">
-                        <div class="card-body card-blog">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <img src="oldassets/images/blog-cats/cat3.png" alt=""
-                                        class="img-fluid card-blog-img"></div>
-                                <div class="col-sm-8 card-blog-content">
-                                    <h5>James Lee</h5>
-                                    <p>Hearing your cat throw up is nothing out of the ordinary for most cat owners. We
-                                        usually just think that they<a href="">Read More</a></p>
-
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <div class=" col-md-6 col-lg-6 card-blog-margin">
-                <div class="row justify-content-center">
-                    <div class="card ">
-                        <div class="card-body card-blog">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <img src="oldassets/images/blog-cats/cat4.png" alt=""
-                                        class="img-fluid card-blog-img"></div>
-                                <div class="col-sm-8 card-blog-content">
-                                    <h5>Chris Brown</h5>
-                                    <p>There are quite a few reasons why cats vomit, and it’s important to know these
-                                        reasons so that you can save your <a href="">Read More</a></p>
-
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-
-        </div>
-
-
-
-
-        <div class="row justify-content-center mt-5 ">
-
-            <a href="" class="btn btn-primary btn-regular text-center mb-5 " style="background-color: #545871;">
-                Know More</a>
-
-        </div>
-
-
-    </div>
-
-    </div>
-
-</section>
-
-
-
 
 <!-- Blog section ends -->
 <!-- Contact us section -->
-
-
-<section class="contact mb-5">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-6 text-center  mt-5">
-
-                <h3 class="main-heading">Need more in-Furr-mation,
-                    All ears</h3>
-
-            </div>
-
-        </div>
-        <div class="row justify-content-center mt-4">
-            <div class="col-lg-5">
-
-                <form>
-
-                    <div class="row form-group">
-                        <div class="col-sm-6  col-sm-2">
-                            <label for="fullname" class="label-content">First Name</label>
-                            <input type="text" class="form-control " name="firstname" required>
-                        </div>
-                        <div class="col-sm-6">
-                            <label for="fullname" class="label-content">Last Name</label>
-                            <input type="text" class="form-control form-content" name="lastname" required>
-                        </div>
-
-
-                    </div>
-
-                    <div class="row form-group">
-                        <div class="col-sm-12">
-                            <label for="fullname" class="label-content">Email</label>
-                            <input type="email" class="form-control " name="email" required>
-                        </div>
-                    </div>
-
-                    <div class="row form-group">
-                        <div class="col-sm-12">
-                            <label for="subject" class="label-content">Subject</label>
-                            <select class="form-control" id="subject">
-                                <option>Pet Care</option>
-                                <option>Pet Behaviour</option>
-                                <option>Animal Help</option>
-                                <option>Pet Health</option>
-
-                            </select>
-                        </div>
-                    </div>
-
-
-                    <div class="row form-group">
-                        <div class="col-sm-12">
-                            <label for="subject" class="label-content">Message</label>
-                            <textarea class="form-control form-content" rows="5" name="address" required
-                                placeholder="Enter your message here"></textarea>
-                        </div>
-                    </div>
-
-                    <div class="row form-group">
-                        <div class="col-sm-12">
-
-                            <button class="btn btn-primary btn-block text-white btn-user mt-2 submit-btn "
-                                type="submit">
-                                Send Message
-                            </button>
-                        </div>
-
-                    </div>
-
-                </form>
-
-            </div>
-
-
-        </div>
-    </div>
-</section>
-
-
 
 <!-- Contact us section ends -->
 
 
 <!-- Address -->
-
-
-<section class="blog mt-2 " style="background-color: #9AC8DE;">
-    <div class="container ">
-
-        <div class="row justify-content-center">
-            <div class="col-sm-4 text-center   Address">
-
-                <h5 style="color: white;font-weight: 700;">Address:</h5>
-                <p>B-145 Sector 14 Noida U.P 201301</p>
-
-            </div>
-            <div class="col-sm-4 text-center   Address">
-
-                <h5 style="color: white;font-weight: 700;">Email:</h5>
-                <p>info@myfurries.com</p>
-
-            </div>
-            <div class="col-sm-4 text-center   Address">
-
-                <h5 style="color: white;font-weight: 700;">Phone:</h5>
-                <p>+91xxxxxxxx</p>
-
-            </div>
-
-
-        </div>
-
-
-
-    </div>
-
-    </div>
-
-</section>
 
 
 

@@ -14,8 +14,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="oldassets/images/Logo/logo.jpg">
-    <title>My Furries</title>
+    <link rel="icon" type="image/png" href="ideathon/logo.png">
+    <title>Clean-O-Rama</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,900;1,700&display=swap" rel="stylesheet">
@@ -27,7 +27,7 @@
     <link href="oldassets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
-
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;700;900&display=swap" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="oldassets/css/style.css" rel="stylesheet" type="text/css">
@@ -51,9 +51,9 @@
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="index.php" class="logo">
-                            <img src="oldassets/images/Logo/logo.jpg" class="light-logo " alt=""
+                            <img src="ideathon/logo.png" class="light-logo " alt=""
                                 style="width:60px;height:60px;margin-top: -18px;">
-                            <img src="oldassets/images/Logo/logo.jpg" class="dark-logo  " alt=""
+                            <img src="ideathon/logo.png" class="dark-logo  " alt=""
                                 style="">
                         </a>
                         <!-- ***** Logo End ***** -->
@@ -69,15 +69,15 @@
 
                         <!-- ***** Menu Start ***** -->
                         <div class="row">
-                            <div class="col-lg-3 offset-lg-1 mt-3 pr-0 pl-4 search-box" >
+                            <!-- <div class="col-lg-3 offset-lg-1 mt-3 pr-0 pl-4 search-box" >
                                 <form class="form-inline mb-0">
                                     <input class="form-control search-bar search-bar-new search-bar-width col-sm-10 " type="search" placeholder="Find a Vet ,Vet Clinic, Vet Hospitals etc"
                                         aria-label="Search">
                                     <button class="btn btn-outline-success col-sm-2 search-btn" type="submit"><i
                                             class="fa fa-search"></i></button>
                                 </form>
-                            </div>
-                            <div class="col-lg-8 col-sm-12 nav-links-margin">
+                            </div> -->
+                            <div class="col-sm-12 nav-links-margin">
                                 <ul class="nav nav ">
                                    
                             <li><a href="index.php">Home</a></li>
@@ -85,7 +85,7 @@
                             <li><a href="#">Services</a></li>
                             <li><a href="#">Contact us</a></li>
                             <li><a href=<?php echo "'".basepath()."blog-list.php'";?>>Blog</a></li>
-                            <li><a href=<?php echo "'".basepath()."forum.php'";?>>Ask a vet</a></li>
+                            <li><a href=<?php echo "'".basepath()."forum.php'";?>>Forum</a></li>
                          
                             <?php 
                                 if(isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
@@ -146,6 +146,9 @@
 
 
 <style>
+    body{
+        font-family: 'Source Sans Pro', sans-serif !important;
+    }
      .header-area.header-sticky .search-bar 
      {
          color: #3B566E !important;

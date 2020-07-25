@@ -1,6 +1,6 @@
 
     <!-- ***** Footer Start ***** -->
-    <footer style="background-color: #862A30;" class="footer-main" >
+    <footer style="background-color: #3C8872;" class="footer-main" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12 no-gutters" >
@@ -8,9 +8,7 @@
 
                     <div class="col-sm-10 text mt-4  ">
                         <p class="text-justify">
-                        We are a team of pet /animal lovers
-                            who want to assist in making the journey of pet parents and their fur babies full of
-                            happiness and joy right from their puppy hood to being a senior.
+                        We at Clean-O-Rama aim to curb all your laundry woes and at the same time create a community of people who share a passion for helping each other out
                         </p>
                         <!-- <p> Forwarded As a pet parent,
                             caring about your pet is a
@@ -38,7 +36,7 @@
 
                         <li><a href="#"></i><span>Contact us</span></a></li>
 
-                        <li><a href="#"></i><span>Ask a Vet</span></a></li>
+                        <li><a href="#"></i><span>Forum</span></a></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6">
@@ -84,8 +82,8 @@
                     <p class="copyright">Copyright &copy;
                         <script>
                             document.write(new Date().getFullYear());
-                        </script> All rights reserved | My Furries | Developed with <i
-                            class="fa fa-heart heart-footer"></i> by  <a class="text-white" href="https://alphadevs.tech/">AlphaDevs</a> </p>
+                        </script> All rights reserved | Clean-O-Rama | Developed with <i
+                            class="fa fa-heart heart-footer"></i> by  <a class="text-white" href="https://alphadevs.tech/">Alpha Sanctuary</a> </p>
                 </div>
             </div>
         </div>
