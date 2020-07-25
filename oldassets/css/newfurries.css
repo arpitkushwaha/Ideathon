@@ -21,7 +21,7 @@ h3 {
 }
 
 .ttr-sidebar {
-    background-color: #FFB000;
+    background-color: #3C8872;
 
 }
 
@@ -32,7 +32,7 @@ h3 {
 
 .ttr-toggle-sidebar {
 
-    color: #FFB000;
+    color: #3C8872;
     background: transparent;
 }
 
@@ -41,7 +41,7 @@ h3 {
 }
 
 .ttr-header-navigation .fa {
-    color: #862A30 !important;
+    color: #000 !important;
 }
 
 .ttr-search-bar {
@@ -80,7 +80,7 @@ h3 {
 
 .ttr-sidebar-navi .active a {
     background-color: rgb(231, 158, 1);
-    color: #862A30;
+    color: #000;
 
 }
 
@@ -99,11 +99,11 @@ h3 {
 }
 
 .ttr-sidebar-navi span:active {
-    color: #862A30;
+    color: #000;
 }
 
 .ttr-sidebar-navi span:hover {
-    color: #862A30;
+    color: #000;
 }
 
 .ttr-sidebar-navi span {
@@ -111,17 +111,17 @@ h3 {
 }
 
 .breadcrumb-title {
-    color: #FFB000;
+    color: #3C8872;
     font-weight: 600;
     font-size: 16px;
 }
 
 .db-breadcrumb .fa-home {
-    color: #862A30;
+    color: #000;
 }
 
 .market-card-title {
-    color: #862A30 !important;
+    color: #000 !important;
     font-weight: 600;
 }
 
@@ -141,9 +141,9 @@ h3 {
 }
 
 .market-card-btn {
-    border: 1px solid #862A30;
+    border: 1px solid #000;
     background-color: white;
-    color: #862A30;
+    color: #000;
     margin-left: 15px;
     width: 130px;
     border-radius: 25px;
@@ -154,14 +154,14 @@ h3 {
 
 .market-card-btn:hover {
     border: 1px solid white;
-    background-color: #862A30;
+    background-color: #000;
     color: white;
 
 }
 
 .market-card-btn:active {
     border: 1px solid white;
-    background-color: #862A30 !important;
+    background-color: #000 !important;
     color: white;
 
 }
@@ -197,7 +197,7 @@ h3 {
     float: right;
     margin-top: -30px;
     margin-right: 10px;
-    background-color: #862A30 !important;
+    background-color: #000 !important;
     padding: 8px;
     border-radius: 7px;
     width: 100px;
@@ -225,7 +225,7 @@ h3 {
 }
 
 .blog-features li a {
-    color: #862A30;
+    color: #000;
     font-size: 12px;
     letter-spacing: 1px;
     text-transform: none;
@@ -233,7 +233,7 @@ h3 {
 }
 
 .card-courses-categories h5 {
-    color: #862A30;
+    color: #000;
     font-weight: 600;
 }
 
@@ -268,31 +268,31 @@ h3 {
 }
 
 .page-item .page-link:hover {
-    background-color: #862A30 !important;
+    background-color: #000 !important;
     color: white;
 }
 
 .page-link:focus {
-    background-color: #862A30 !important;
+    background-color: #000 !important;
     box-shadow: none;
     color: white;
 }
 
 .fa-arrow-circle-left {
-    color: #862A30 !important;
+    color: #000 !important;
 }
 
 .goback {
-    color: #862A30 !important;
+    color: #000 !important;
 }
 
 .tags {
-    color: #FFB000 !important;
+    color: #3C8872 !important;
 }
 
 .hero {
     background: #FF6450;
-    background-image: linear-gradient(135deg, #fe9124 0%, #FFB000 100%);
+    background-image: linear-gradient(135deg, #fe9124 0%, #3C8872 100%);
     background-position: top right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -347,11 +347,11 @@ h3 {
 
 
 .flat-icon {
-    color: #FFB000;
+    color: #3C8872;
 }
 
 .ttr-tilte {
-    color: #862A30;
+    color: #000;
 }
 
 .icon-cell:hover {
@@ -359,13 +359,13 @@ h3 {
 }
 
 .title-head {
-    color: #862A30;
+    color: #000;
     font-size: 18px;
     font-weight: 600;
 }
 
 .category {
-    background-color: #862A30;
+    background-color: #000;
     border: none;
     color: white;
     border-radius: 5px;
@@ -383,14 +383,14 @@ h3 {
 }
 
 .category:active {
-    background-color: #862A30;
+    background-color: #000;
     border: none;
     color: white;
     border-radius: 5px;
 }
 
 .blog-send-btn {
-    background-color: #862A30;
+    background-color: #000;
     width: 200px;
     border-radius: 10px;
     color: white !important;
@@ -405,7 +405,7 @@ h3 {
 }
 
 .bootstrap-tagsinput .tag {
-    background-color: #FFB000;
+    background-color: #3C8872;
     color: white;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
@@ -420,7 +420,7 @@ h3 {
 }
 
 .bootstrap-tagsinput .tag [data-role="remove"]:after {
-    color: #862a30;
+    color: #000;
     content: 'x';
     font-weight: 300;
     font-family: Arial, Helvetica, sans-serif;
@@ -439,7 +439,7 @@ h3 {
 }
 
 .user-name h4 {
-    font-weight: 700 !important;
+    font-weight: 500 !important;
 }
 
 @media(max-width:992px) {
@@ -486,7 +486,7 @@ h3 {
 }
 
 .mid-nav {
-    background-color: #FFB000;
+    background-color: #3C8872;
     padding: 10px;
     border-radius: 4px;
     margin-left: 20px;
@@ -519,20 +519,20 @@ h3 {
 }
 
 .mid-nav-item:hover {
-    color: #862A30;
+    color: #000;
 
     font-weight: 700;
     font-size: 18px;
 }
 
 .profile-head {
-    color: #FFB000;
+    color: #3C8872;
     font-weight: 600 !important;
     font-size: 24px !important;
 }
 
 .col-form-label {
-    color: #862A30;
+    color: #000;
     font-size: 16px !important;
     font-weight: 600 !important;
 }
@@ -542,12 +542,12 @@ h3 {
 }
 
 .eye-btn {
-    background-color: #862A30;
+    background-color: #000;
     border-radius: none;
 }
 
 .eye-btn:hover {
-    background-color: #FFB000;
+    background-color: #3C8872;
     border-radius: none;
 }
 
@@ -609,7 +609,7 @@ h3 {
 .post-head-top {
     margin-top: -2%;
     margin-bottom: 5%;
-    color: #FFB000;
+    color: #3C8872;
 }
 
 .tag-input-form {
@@ -622,7 +622,7 @@ h3 {
 }
 
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
-    background-color: #FFB000 !important;
+    background-color: #3C8872 !important;
     color: #fff !important;
 }
 
@@ -631,7 +631,7 @@ h3 {
 }
 
 .select2-container--default .select2-selection--multiple .select2-selection__choice {
-    background-color: #FFB000 !important;
+    background-color: #3C8872 !important;
     border: none !important;
     color: white !important;
     font-size: 14px;
@@ -639,22 +639,22 @@ h3 {
 }
 
 .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
-    color: #862A30 !important;
+    color: #000 !important;
     font-size: 20px;
 }
 
 
 
 .social li a {
-    color: #862A30 !important;
+    color: #000 !important;
 }
 
 .post-tags .tags {
-    color: #862A30 !important;
+    color: #000 !important;
 }
 
 .comment-meta a {
-    color: #FFB000 !important;
+    color: #3C8872 !important;
 }
 
 p {
@@ -666,7 +666,7 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .send-btn-blog {
-    background-color: #FFB000 !important;
+    background-color: #3C8872 !important;
 
 }
 
@@ -676,7 +676,7 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .at-icon-wrapper {
-    background-color: #862A30 !important;
+    background-color: #000 !important;
 }
 
 .addthis-smartlayers {
@@ -686,7 +686,7 @@ ol.comment-list li.comment .comment-author .avatar {
 
 .hero {
     background: #FF6450;
-    background-image: linear-gradient(135deg, #fe9124 0%, #FFB000 100%);
+    background-image: linear-gradient(135deg, #fe9124 0%, #3C8872 100%);
     background-position: top right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -729,7 +729,7 @@ ol.comment-list li.comment .comment-author .avatar {
 
 
 .reply-btn {
-    border: 1px solid #862A30;
+    border: 1px solid #000;
 }
 
 .side-bar {
@@ -741,15 +741,15 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .blog-feature li a {
-    color: #FFB000 !important;
+    color: #3C8872 !important;
 }
 
 .head-list-blog h3 {
-    color: #862a30;
+    color: #000;
 }
 
 .listmore-btn {
-    background-color: #FFB000;
+    background-color: #3C8872;
     color: white;
     width: 100%;
     margin-bottom: 20px;
@@ -767,7 +767,7 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .category-blog {
-    color: #FFB000;
+    color: #3C8872;
     font-weight: 500;
     letter-spacing: 1px;
 
@@ -844,7 +844,7 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .inline-text li a {
-    color: #862A30 !important;
+    color: #000 !important;
     font-weight: 600;
 }
 
@@ -957,7 +957,7 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .market-card-btn {
-    border: 1px solid #862A30 !important;
+    border: 1px solid #000 !important;
     border-radius: 20px !important;
     font-weight: 600 !important;
     font-size: small !important;
@@ -1065,7 +1065,7 @@ ol.comment-list li.comment .comment-author .avatar {
 
 .share-icon-blog li a .fa {
     font-size: 18px !important;
-    color: #FFB000;
+    color: #3C8872;
     padding: 2px;
 }
 
@@ -1117,8 +1117,8 @@ ol.comment-list li.comment .comment-author .avatar {
 }
 
 .comment-reply-btn {
-    color: #FFB000 !important;
-    border: 2px solid #FFB000 !important;
+    color: #3C8872 !important;
+    border: 2px solid #3C8872 !important;
     transition: ease 0.2s;
     padding: 6px 40px;
     border-radius: 20px;
@@ -1131,8 +1131,8 @@ ol.comment-list li.comment .comment-author .avatar {
 
 .comment-reply-btn:hover {
     color: white !important;
-    border: 2px solid #862A30 !important;
-    background-color: #862A30 !important;
+    border: 2px solid #000 !important;
+    background-color: #000 !important;
 }
 
 .forum-list-box-width {
@@ -1183,6 +1183,7 @@ ol.comment-list li.comment .comment-author .avatar {
         margin-left: -6%;
     }
 }
+
 @media(max-width:425px) {
     .user-name-alignment {
         margin-left: -10%;
@@ -1266,25 +1267,24 @@ ol.comment-list li.comment .comment-author .avatar {
 
 .avatar-upload-btn {
     border: none;
-    background-color: #862A30;
-    color: white;
+    background-color: transparent;
+    color: #3C8872;
+    border: 1.5px solid #3C8872;
     border-radius: 10px;
-    padding: 4px;
-    width: 100px;
-    height: 30px;
+    padding: 8px 15px;
     font-size: 14px;
     transition: ease 0.5s;
 }
 
 .avatar-upload-btn:hover {
 
-    background-color: #a05c61;
+    background-color: #3C8872;
     color: white;
 
 }
 
 .widget-inner-padding {
-    padding: 20px 30px 0px !important;
+    padding: 20px 30px !important;
 
 }
 
@@ -1631,16 +1631,16 @@ ol.comment-list li.comment .comment-author .avatar {
 .label-large.arrowed-in-right:after {
     right: -12px
 }
+
 /* Lable style here here  */
 
 
-.askavet-list-badge
-{
+.askavet-list-badge {
     position: absolute;
     top: 20px;
-    right:20px ;
+    right: 20px;
 }
-.btn
-{
+
+.btn {
     letter-spacing: 2px;
 }

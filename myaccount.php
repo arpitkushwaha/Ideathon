@@ -31,7 +31,7 @@
 										<ul class="card-courses-view">
 											<li class="card-courses-user">
 												<div class="detail-icon">
-													<img src="oldassets/images/Market Place/market-icon-locate/Group1.png"
+													<img src="https://img.icons8.com/bubbles/50/000000/map-pin.png"
 														alt="" class="detail-img user-icondetail-img">
 												</div>
 												<div class="card-courses-user-info detail-content">
@@ -41,7 +41,7 @@
 											</li>
 											<li class="card-courses-user">
 												<div class="detail-icon">
-													<img src="oldassets/images/Market Place/market-icon-locate/Group2.png"
+													<img src="https://img.icons8.com/bubbles/50/000000/iphone-x.png"
 														alt="" class="detail-img user-icondetail-img">
 												</div>
 												<div class="card-courses-user-info detail-content">
@@ -51,7 +51,7 @@
 											</li>
 											<li class="card-courses-user">
 												<div class="detail-icon">
-													<img src="oldassets/images/Market Place/market-icon-locate/Group-msg.png"
+													<img src="https://img.icons8.com/bubbles/50/000000/messaging-.png"
 														alt="" class="detail-img user-icondetail-img">
 												</div>
 												<div class="card-courses-user-info detail-content">
