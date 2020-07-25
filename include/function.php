@@ -2,14 +2,14 @@
 
 function redirect_to($path)
 {
-    header('Location:http://localhost/myfurries/'.$path);
+    header('Location:http://localhost/ideathon/'.$path);
     exit();
 }
 
 
 function basepath()
 {
-    return "http://localhost/myfurries/";
+    return "http://localhost/ideathon/";
 }
 
 
