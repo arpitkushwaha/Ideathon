@@ -16,7 +16,7 @@ session_start();
 
 
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" href="oldassets/images/Logo/logo.jpg">
+	<link rel="icon" type="image/png" href="ideathon/logo.png">
 
 	<!-- MOBILE SPECIFIC ============================================= -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
