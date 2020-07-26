@@ -56,10 +56,9 @@
 												</div>
 												<select name="category" class="custom-select" id="inputGroupSelect01"  required>
 												
-													<option value="Pet Care">Pet Care</option>
-													<option value="Pet Behaviour">Pet Behaviour</option>
-													<option value="Pet Health">Pet Health</option>
-													<option value="Animal Help">Animal Help</option>
+													<option value="Pet Care">Laundry</option>
+													<option value="Pet Behaviour">Ironing</option>
+													<option value="Pet Health">Dry Cleaning</option>
 
 												</select>
 											</div>

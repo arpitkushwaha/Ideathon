@@ -43,7 +43,7 @@ if(!empty($_SESSION['askavet_edit_id']))
                             <i class="flaticon-employee-2 flat-icon "></i>
                         </div>
                         <div class="icon-content">
-                            <h5 class="ttr-tilte">Ask a Vet </h5>
+                            <h5 class="ttr-tilte">Ask a Question</h5>
                             <p>Ask your vet the right questions about your dog, from nutritional needs to vaccinations to behavioral issues.</p>
                         </div>
                     </div>
@@ -78,7 +78,7 @@ if(!empty($_SESSION['askavet_edit_id']))
 
                                             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                                 <a class="dropdown-item" href="#" onclick="userblog()">Community</a>
-                                                <a class="dropdown-item" href="#" onclick="userforum()">Ask a Vet</a>
+                                                <a class="dropdown-item" href="#" onclick="userforum()">Ask a Question</a>
                                                 
                                             </div>
                                         </div>
@@ -278,7 +278,7 @@ if(!empty($_SESSION['askavet_edit_id']))
 <!-- ask on forum start here -->
 <div class="widget-inner pl-4 pr-4" id="user_forum"  style="display: none;">
 <div class="row justify-content-center post-head-top">
-    <h2>Ask a Vet</h2>
+    <h2>Ask a question</h2>
 </div>
 
 

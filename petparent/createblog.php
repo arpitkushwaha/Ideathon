@@ -14,7 +14,7 @@
 				<div class="col-lg-11 mb-5 ">
 					<div class="widget-box shadow-lg">
 						<div class="row justify-content-center">
-							<h3 class="form-head-mypost mt-3">Ask a Vet</h3>
+							<h3 class="form-head-mypost mt-3">Ask a Question</h3>
 						</div>
 						<div class="email-wrapper">
 
@@ -53,10 +53,9 @@
 												</div>
 												<select name="category" class="custom-select" id="inputGroupSelect01"  required>
 												
-													<option value="Pet Care">Pet Care</option>
-													<option value="Pet Behaviour">Pet Behaviour</option>
-													<option value="Pet Health">Pet Health</option>
-													<option value="Animal Help">Animal Help</option>
+													<option value="Pet Care">Laundry</option>
+													<option value="Pet Behaviour">Ironing</option>
+													<option value="Pet Health">Dry Cleaning</option>
 
 												</select>
 											</div>
