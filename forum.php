@@ -21,7 +21,7 @@
 	<link rel="canonical" href="../index.php" />
 	<!-- OG -->
 
-	<title>My Furries</title>
+	<title>Clean-O-Rama</title>
 
 
 	<!-- Favicon -->

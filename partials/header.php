@@ -82,7 +82,7 @@
                                    
                             <li><a href="index.php">Home</a></li>
                             <li><a href="#">About us</a></li>
-                            <li><a href="#">Marketplace</a></li>
+                            <li><a href="market.php">Marketplace</a></li>
                             <!-- <li><a href="#">Contact us</a></li> -->
                             <li><a href=<?php echo "'".basepath()."blog-list.php'";?>>Blog</a></li>
                             <li><a href=<?php echo "'".basepath()."forum.php'";?>>Forum</a></li>

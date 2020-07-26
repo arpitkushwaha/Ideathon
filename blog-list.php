@@ -305,24 +305,18 @@ session_start();
 										<ul>
 											<li class="list-category" onclick="petcare()">
 												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Pet Care</a></div>
+														Laundry</a></div>
 											</li>
 											<hr>
 											<li class="list-category" onclick="petbehaviour()">
 												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Pet Behaviour</a></div>
+														Ironing</a></div>
 											</li>
 											<hr>
 											<li class="list-category" onclick="animalhelp()">
 												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Animal Help</a></div>
+														Dry Cleaning</a></div>
 											</li>
-											<hr>
-											<li class="list-category" onclick="pethealth()">
-												<div><a href="#" class="category-blog"><i class="fa fa-angle-right"></i>
-														Pet Health</a></div>
-											</li>
-
 										</ul>
 									</div>
 
