@@ -78,11 +78,11 @@
 			<div class="page-banner page-banner-sm">
 				<div class="container">
 					<div class="page-banner-entry">
-						<h1 class="banner-head">Ask a Vet</h1>
+						<h1 class="banner-head">Forum</h1>
 						<div class="breadcrumb-row text-black">
 							<ul class="list-inline inline-text">
 								<li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-								<li>Ask a Vet</li>
+								<li>Forum</li>
 							</ul>
 						</div>
 
