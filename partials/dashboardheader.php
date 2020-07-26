@@ -35,7 +35,7 @@ if(!isset($_SESSION['logged']) && $_SESSION['role']==="Pet Parent")
 
 	<!-- FAVICONS ICON ============================================= -->
 
-	<link rel="icon" type="image/png" href="../oldassets/images/Logo/logo.jpg	">
+	<link rel="icon" type="image/png" href="../ideathon/logo.png	">
 
 	<!-- PAGE TITLE HERE ============================================= -->
 	<title>Clean-O-Rama</title>
