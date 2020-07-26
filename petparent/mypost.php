@@ -197,7 +197,7 @@ if(!empty($_SESSION['askavet_edit_id']))
 
 <div class="card-courses-list bookmarks-bx p-2">
     <div class="card-courses-media">
-        <img src="https://urbananimalveterinary.com/wp-content/uploads/2018/07/dog-bones.jpg"
+        <img src="../ideathon/blog-1.jpg"
             alt="" />
     </div>
     <div class="card-courses-full-dec">
@@ -207,7 +207,7 @@ if(!empty($_SESSION['askavet_edit_id']))
 
                 <button name="readmore" type="submit" class="title-forum-btn text-left p-0 m-0">
                     <a>
-                        <h4 class="m-b5 size-head-forumdash post-title float-left forum-head ">Why do dogs bury bones?</h4>
+                        <h4 class="m-b5 size-head-forumdash post-title float-left forum-head ">How to Do Laundry</h4>
 
                     </a>
                 </button>
@@ -217,7 +217,7 @@ if(!empty($_SESSION['askavet_edit_id']))
         </div>
         <div class="row">
             <div class="col-lg-6 mt-1 ">
-                <span class="text-muted" style="font-size: 14px;">May 2020</span>
+                <span class="text-muted" style="font-size: 14px;">July 2020</span>
             </div>
         </div>
         <div class="card-courses-list-bx">
@@ -242,14 +242,14 @@ if(!empty($_SESSION['askavet_edit_id']))
                 <li class="card-courses-price">
                 <li class="card-courses-categories category-dash-margin">
                     <h4 style="color: #FFB000;">Category</h4>
-                    <span class="text-muted">Animal Help</span>
+                    <span class="text-muted">Laundry</span>
                 </li>
                 </li>
             </ul>
         </div>
         <div class="row card-courses-dec">
             <div class="col-md-12 margin-forum-dashboard-para">
-                <p class="text-justify">This behavior is less about playtime and more about instinct. 
+                <p class="text-justify">Laundry can be frustrating, even for a laundry enthusiast. It's time-consuming, unceasing and <br> there is so very much that can go wrong. 
                    
                  
                 </p>
