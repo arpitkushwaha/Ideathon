@@ -42,12 +42,12 @@
 							<span class="ttr-label">My Post</span>
 						</a>
 					</li>
-					<li>
+					<!-- <li>
 						<a href="#" class="ttr-material-button">
 							<span class="ttr-icon"><i class="ti-bookmark-alt"></i></span>
 							<span class="ttr-label">Charity/NGO's</span>
 						</a>
-					</li>
+					</li> -->
 					<li>
 						<a href="#" class="ttr-material-button">
 							<span class="ttr-icon"><i class="ti-calendar"></i></span>
