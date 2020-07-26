@@ -89,7 +89,46 @@ We at Clean-O-Rama aim to curb all your laundry woes and at the same time create
 
 <!-- ***** About us Content End ***** -->
 
+<section class="card-view py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 text-center  mt-5">
+                <h2 class="main-heading">Blog</h2>
+                <h5 class="text-muted">Find what you been looking for.</h5>
+            </div>
+        </div>
+        <div class="row justify-content-center" style="margin-top: 20px;">
+            <div class="col-sm-12 my-3">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <img class="mr-3 w-100" src="ideathon/blog-1.jpg" width=""/>
+                            </div>
+                            <div class="col-lg-8">
+                                <h4 class="my-1 text-primary">How to Do Laundry</h4>
+                                <p>
+                                    Laundry can be frustrating, even for a laundry enthusiast. It's time-consuming, unceasing and there is so very much that can go wrong. For many of us, it’s one of those chores we learned to do from our parents, a dormmate, a significant other or whoever else, and then we stop asking questions. But questions are great! Because knowledge is power and can make doing laundry easier and more effective. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cupiditate cumque laudantium aperiam nostrum esse at tempora a corrupti accusamus!
+                                </p>
+                                <a name="" id="" class="btn btn-primary mt-2" href="#" role="button">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <p class="text-muted">Total Views: 100+</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 text-center my-3">
+                <a class="btn btn-primary btn-lg w-25" type="button" href="blog-list.php">See More</a>
+            </div>
+        </div>
+    </div>
 
+
+
+
+</section>
 <!-- services -->
 
 <section class="card-view py-5">
@@ -305,47 +344,6 @@ We at Clean-O-Rama aim to curb all your laundry woes and at the same time create
 
 
 <!-- Blog section -->
-
-<section class="card-view py-5">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-6 text-center  mt-5">
-                <h2 class="main-heading">Blog</h2>
-                <h5 class="text-muted">Find what you been looking for.</h5>
-            </div>
-        </div>
-        <div class="row justify-content-center" style="margin-top: 20px;">
-            <div class="col-sm-12 my-3">
-                <div class="card">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <img class="mr-3 w-100" src="ideathon/blog-1.jpg" width=""/>
-                            </div>
-                            <div class="col-lg-8">
-                                <h4 class="my-1 text-primary">How to Do Laundry</h4>
-                                <p>
-                                    Laundry can be frustrating, even for a laundry enthusiast. It's time-consuming, unceasing and there is so very much that can go wrong. For many of us, it’s one of those chores we learned to do from our parents, a dormmate, a significant other or whoever else, and then we stop asking questions. But questions are great! Because knowledge is power and can make doing laundry easier and more effective. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos cupiditate cumque laudantium aperiam nostrum esse at tempora a corrupti accusamus!
-                                </p>
-                                <a name="" id="" class="btn btn-primary mt-2" href="#" role="button">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card-footer">
-                        <p class="text-muted">Total Views: 100+</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-12 text-center my-3">
-                <a class="btn btn-primary btn-lg w-25" type="button" href="blog-list.php">See More</a>
-            </div>
-        </div>
-    </div>
-
-
-
-
-</section>
 
 
 <!-- Blog section ends -->
