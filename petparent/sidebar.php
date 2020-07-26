@@ -27,7 +27,7 @@
 						</a>
 					</li> -->
 					<li>
-						<a href="marketplacelist.php" class="ttr-material-button" >
+						<a href="../market.php" class="ttr-material-button" >
 							<span class="ttr-icon"><i class="ti-layout-accordion-list"></i></span>
 							<span class="ttr-label">Market Place</span>
 
