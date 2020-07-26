@@ -30,7 +30,7 @@
                     <h4>Quick Links</h4>
                     <ul class="footer-nav">
                         <li><a href="#"><span>Home</span></a></li>
-                        <li><a href=<?php echo "'".basepath()."aboutus.php'";?>></i><span>About Us</span></a></li>
+                        <!-- <li><a href=<?php echo "'".basepath()."aboutus.php'";?>></i><span>About Us</span></a></li> -->
                         <li><a href="#"></i><span>Services</span></a></li>
                         <li><a href="#"></i><span>Blog</span></a></li>
 
